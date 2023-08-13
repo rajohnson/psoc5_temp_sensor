@@ -1,7 +1,6 @@
 #include "project.h"
 
-int main(void)
-{
+int main(void) {
     uint32_t loop_count = 0;
     CyGlobalIntEnable; /* Enable global interrupts. */
 
@@ -26,8 +25,7 @@ int main(void)
     LCD_Char_1_IsReady();
     LCD_Char_1_PrintString("45678901234567890123");
 
-    for (;;)
-    {
+    for(;;) {
         LCD_Char_1_IsReady();
         LCD_Char_1_Position(3, 0);
         LCD_Char_1_IsReady();
