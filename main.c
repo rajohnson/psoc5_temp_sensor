@@ -1,3 +1,6 @@
+#include <float.h>
+#include <math.h>
+
 #include "project.h"
 
 int main(void) {
