@@ -1,3 +1,5 @@
+.vscode/
+
 # Userfile
 *.cyprj.*
 *.cywrk.*
