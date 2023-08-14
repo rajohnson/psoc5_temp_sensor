@@ -72,8 +72,6 @@ float get_temperature_c_from_ratio(int16 reference, int16 themistor) {
 }
 
 int main(void) {
-    CyGlobalIntEnable; /* Enable global interrupts. */
-
     lcd_init();
     adc_init();
 
