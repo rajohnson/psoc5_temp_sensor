@@ -97,6 +97,35 @@
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\LCD_Char_1_LCDPort_aliases.h</File>
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\LCD_Char_1_LCDPort.c</File>
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\LCD_Char_1_LCDPort.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\ADC_DelSig_1.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\ADC_DelSig_1.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\ADC_DelSig_1_PM.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\ADC_DelSig_1_INT.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\THERM_P_aliases.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\THERM_P.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\THERM_P.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\THERM_N_aliases.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\THERM_N.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\THERM_N.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\AMux_1.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\AMux_1.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\REF_P_aliases.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\REF_P.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\REF_P.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\Thermistor_2.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\Thermistor_2.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\ADC_DelSig_1_Ext_CP_Clk.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\ADC_DelSig_1_Ext_CP_Clk.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\ADC_DelSig_1_IRQ.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\ADC_DelSig_1_IRQ.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\ADC_DelSig_1_theACLK.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\ADC_DelSig_1_theACLK.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\Pin_1_aliases.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\Pin_1.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\Pin_1.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\Pin_2_aliases.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\Pin_2.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\Pin_2.h</File>
         </Files>
       </Folder>
       <Folder BuildType="STRICT" Path="C:\Users\divin\OneDrive\Documents\PSoC Creator\Workspace01\blinky2.cydsn\Export\ARM_GCC_Generic">

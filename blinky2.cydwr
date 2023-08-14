@@ -252,9 +252,14 @@
   <Group key="DWRInstGuidMapping">
     <Group key="Pin">
       <Data key="2f6142cb-22d1-46b2-84ad-29cd7711f8b5/ed092b9b-d398-4703-be89-cebf998501f6" value="LCD_Char_1_LCDPort" />
+      <Data key="5d3e92b3-be40-41a6-90f7-96e2c6d68ea1" value="REF_P" />
+      <Data key="8cd646a0-256d-44fd-bf40-0b23abc69f47" value="Pin_1" />
       <Data key="8d318d8b-cf7b-4b6b-b02c-ab1c5c49d0ba" value="sw" />
       <Data key="953fb050-5c5c-4711-9bd0-80ad7714b34d/ed092b9b-d398-4703-be89-cebf998501f6" value="LCD_Char_1_LCDPort" />
+      <Data key="77715107-f8d5-47e5-a629-0fb83101ac6b" value="THERM_P" />
+      <Data key="d56f5191-dc38-4ecf-a1e0-198e0b71bfed" value="Pin_2" />
       <Data key="e851a3b9-efb8-48be-bbb8-b303b216c393" value="led" />
+      <Data key="e8849a22-6fb2-408b-b24c-5133c8c7f793" value="THERM_N" />
     </Group>
   </Group>
   <Group key="EEPROM">
@@ -3364,6 +3369,16 @@
         <Data key="Port Format" value="0,6" />
       </Group>
     </Group>
+    <Group key="5d3e92b3-be40-41a6-90f7-96e2c6d68ea1">
+      <Group key="0">
+        <Data key="Port Format" value="3,0" />
+      </Group>
+    </Group>
+    <Group key="8cd646a0-256d-44fd-bf40-0b23abc69f47">
+      <Group key="0">
+        <Data key="Port Format" value="3,6" />
+      </Group>
+    </Group>
     <Group key="8d318d8b-cf7b-4b6b-b02c-ab1c5c49d0ba">
       <Group key="0">
         <Data key="Port Format" value="2,2" />
@@ -3392,9 +3407,24 @@
         <Data key="Port Format" value="2,6" />
       </Group>
     </Group>
+    <Group key="77715107-f8d5-47e5-a629-0fb83101ac6b">
+      <Group key="0">
+        <Data key="Port Format" value="3,2" />
+      </Group>
+    </Group>
+    <Group key="d56f5191-dc38-4ecf-a1e0-198e0b71bfed">
+      <Group key="0">
+        <Data key="Port Format" value="3,7" />
+      </Group>
+    </Group>
     <Group key="e851a3b9-efb8-48be-bbb8-b303b216c393">
       <Group key="0">
         <Data key="Port Format" value="2,1" />
+      </Group>
+    </Group>
+    <Group key="e8849a22-6fb2-408b-b24c-5133c8c7f793">
+      <Group key="0">
+        <Data key="Port Format" value="3,1" />
       </Group>
     </Group>
   </Group>
