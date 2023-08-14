@@ -12,9 +12,11 @@
 *.rpt
 */ComponentUpdateLog.txt
 *.log
+*.cyfit
 
 # Folders
 *codegentemp/
 *CoretexM3/
 *Debug/
 *Generated_Source/
+*Export/
